@@ -1,11 +1,10 @@
 {
-  "name": "35a-face-detection-app-backend",
+  "name": "brain-box-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
-    "start": "node server.js",
-    "start:dev": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
